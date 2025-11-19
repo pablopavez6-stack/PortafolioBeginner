@@ -44,7 +44,7 @@ def operacion(opcion, salir):
         print('Saliendo...')
         salir = True
     else:
-        print('Opción incorrecta!!! intenta nuevamente.')
+        print('Opción incorrecta!!! intenta nuevamente.\n')
     return salir
 
 
